@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaOrderinLinq", "PizzaOrderinLinq\PizzaOrderinLinq.csproj", "{EFD185FD-361D-4295-AEAB-E104F322B88E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributeassign", "Attributeassign\Attributeassign.csproj", "{5D0C513F-6415-4345-BDD8-4D422698B96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlAssignment", "XmlAssignment\XmlAssignment.csproj", "{83475845-EAEA-47EA-9D9F-481E67F0F4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFD185FD-361D-4295-AEAB-E104F322B88E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD185FD-361D-4295-AEAB-E104F322B88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD185FD-361D-4295-AEAB-E104F322B88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD185FD-361D-4295-AEAB-E104F322B88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D0C513F-6415-4345-BDD8-4D422698B96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0C513F-6415-4345-BDD8-4D422698B96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0C513F-6415-4345-BDD8-4D422698B96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0C513F-6415-4345-BDD8-4D422698B96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83475845-EAEA-47EA-9D9F-481E67F0F4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83475845-EAEA-47EA-9D9F-481E67F0F4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83475845-EAEA-47EA-9D9F-481E67F0F4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83475845-EAEA-47EA-9D9F-481E67F0F4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
